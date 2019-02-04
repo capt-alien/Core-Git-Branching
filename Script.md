@@ -17,12 +17,20 @@ As he walked behind the zoo he could see the trees and thick foliage growing abo
 Pennywise had heard the sound before, but today there was a new sound, sort of a cross between an angelic horn and an elephant’s trumpet.
 He stopped to listen and noticed a heavy wooden door in the zoo wall was ajar.
 
-Normally Pennywise would leave well enough alone, but he was worried that an animal might escape.
-He stuck his head in the door, the color of the foliage was intense greens, browns, and chartreuse, he called out for a zookeeper but got no response.
-The smell of the of the zoo was intense and alive.
-He took a tentative step through the door and followed the stone path overgrown with giant ferns.
+Normally Pennywise would leave well enough alone, but he was worried that an animal might escape. But then he met Zool the zookeeper. Zool was a malitous dieaty worshiped by anchant sumatra. Zool got mad and started battleing Pennywise the dancing clown...
 
+<<<<<<< HEAD
 Pennywise met the Unicorn King who granted him magic powers. He then used those powers to destroy zool.... Then end
+=======
+He stuck his head through the door, the color of the foliage was blood red, browns, and black, he called out for a zool but with no responce.
+
+The smell of the of the death fouled the putrid air near the zoo.
+
+He took a tentative step through the door and followed the stone path overgrown with the frost giants.
+
+Pennywise met the Unicorn King who granted him magic powers to destroy zool.
+The end.
+>>>>>>> zookeeper
 
 ## Cast
 
